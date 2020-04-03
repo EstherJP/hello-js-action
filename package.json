@@ -1,0 +1,24 @@
+{
+  "name": "hello-js-action",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstherJP/hello-js-action.git"
+  },
+  "keywords": [],
+  "author": "Esther Jorge Paramio <alu0101102498@ull.edu.es> (https://github.com/EstherJP)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EstherJP/hello-js-action/issues"
+  },
+  "homepage": "https://github.com/EstherJP/hello-js-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.2.3",
+    "@actions/github": "^2.1.1"
+  }
+}
